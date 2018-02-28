@@ -1,0 +1,1 @@
+## Log of Round 1 of #100DaysOfCode
