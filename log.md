@@ -19,3 +19,9 @@
 3. [MIXCOLOR](https://www.codechef.com/MARCH18B/status/MIXCOLOR,ganeshkumarm1)
 
 
+### Day 3: 03, March 2018 (Saturday)
+
+**Today's Progress**: Tried to solve 4th problem in codechef March Challenge. Started with the basics of dynamic programming
+
+
+
