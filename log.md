@@ -33,10 +33,3 @@
 **Today's Progress**: Tried to solve 5th problem in codechef march challenge. But could not come up with a solution
 
 
-
-### Day 4: 04, March 2018 (Sunday)
-
-**Today's Progress**: Tried to solve 5th problem in codechef march challenge. But could not come up with a solution
-
-
-
