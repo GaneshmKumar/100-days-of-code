@@ -21,7 +21,10 @@
 
 ### Day 3: 03, March 2018 (Saturday)
 
-**Today's Progress**: Tried to solve 4th problem in codechef March Challenge. Started with the basics of dynamic programming
+**Today's Progress**: Solved 4th problem in codechef [March challange](https://www.codechef.com/MARCH18B). Problem was a bit difficult. But somehow found the answer after so many solutions.
+
+**Link(s) to work**
+1. [MINEAT](https://www.codechef.com/MARCH18B/status/MINEAT,ganeshkumarm1)
 
 
 
