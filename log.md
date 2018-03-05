@@ -40,3 +40,14 @@
 
 
 
+### Day 5: 05, March 2018 (Monday)
+
+**Today's Progress**: Tried to solve the 5th problem in codechef march challenge. But, could not make much progress. Also learnt something about css positioning
+
+**Link(s) to work**
+1. [the-lowdown-on-absolute-vs-relative-positioning](https://mayvendev.com/blog/the-lowdown-on-absolute-vs-relative-positioning)
+2. [css-positioning-101](http://alistapart.com/article/css-positioning-101)
+3. [positioning](http://www.barelyfitz.com/screencast/html-training/css/positioning/)
+4. [css-positioning](https://www.youtube.com/watch?v=-vo0HzNHL3U)
+
+
