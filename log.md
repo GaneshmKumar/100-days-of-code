@@ -33,13 +33,6 @@
 **Today's Progress**: Tried to solve 5th problem in codechef march challenge. But could not come up with a solution
 
 
-
-### Day 4: 04, March 2018 (Sunday)
-
-**Today's Progress**: Tried to solve 5th problem in codechef march challenge. But could not come up with a solution
-
-
-
 ### Day 5: 05, March 2018 (Monday)
 
 **Today's Progress**: Tried to solve the 5th problem in codechef march challenge. But, could not make much progress. Also learnt something about css positioning
@@ -49,5 +42,3 @@
 2. [css-positioning-101](http://alistapart.com/article/css-positioning-101)
 3. [positioning](http://www.barelyfitz.com/screencast/html-training/css/positioning/)
 4. [css-positioning](https://www.youtube.com/watch?v=-vo0HzNHL3U)
-
-
