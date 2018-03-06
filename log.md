@@ -42,3 +42,9 @@
 2. [css-positioning-101](http://alistapart.com/article/css-positioning-101)
 3. [positioning](http://www.barelyfitz.com/screencast/html-training/css/positioning/)
 4. [css-positioning](https://www.youtube.com/watch?v=-vo0HzNHL3U)
+### Day 6: 06, March 2018 (Tuesday)
+
+**Today's Progress**: Today also tried to solve the [5th problem](https://www.codechef.com/MARCH18B/problems/XXOR) in codechef march challenge. But come up with the solution
+
+
+
