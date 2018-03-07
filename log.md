@@ -48,3 +48,11 @@
 
 
 
+### Day 7: 07, March 2018 (Wednesday)
+
+**Today's Progress**: Tried to solve the problem [MINVOTE](https://www.codechef.com/MARCH18B/problems/MINVOTE) in codechef march challenge. I could able to solve it partially. I should find some other solutions to solve it completely
+
+**Link(s) to work**
+1. [MINVOTE](https://www.codechef.com/MARCH18B/status/MINVOTE,ganeshkumarm1)
+
+
