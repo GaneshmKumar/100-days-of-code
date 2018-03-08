@@ -56,3 +56,9 @@
 1. [MINVOTE](https://www.codechef.com/MARCH18B/status/MINVOTE,ganeshkumarm1)
 
 
+### Day 8: 08, March 2018 (Thursday)
+
+**Today's Progress**: learnt the basics of css float and clear
+
+
+
