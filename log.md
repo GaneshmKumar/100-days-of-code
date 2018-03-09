@@ -62,3 +62,9 @@
 
 
 
+### Day 9: 09, March 2018 (Friday)
+
+**Today's Progress**: Solve problems in [Hack2Hire](https://www.dbs.com/hack2hire/in/index.html) by DBS. MCQ's were easy. But could not complete the coding challenge
+
+
+
