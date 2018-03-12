@@ -80,3 +80,9 @@
 
 
 
+### Day 12: 12, March 2018 (Monday)
+
+**Today's Progress**: Solved problems in [CodeArena](https://www.hackerearth.com/codearena). Learnt a bit about [Web Fundamentals](https://developers.google.com/web/fundamentals)
+
+
+
