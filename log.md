@@ -86,3 +86,11 @@
 
 
 
+### Day 13: 13, March 2018 (Tuesday)
+
+**Today's Progress**: Learnt a bit about node process
+
+**Link(s) to work**
+1. [node-process](https://nodejs.org/api/process.html)
+
+
