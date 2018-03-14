@@ -94,3 +94,9 @@
 1. [node-process](https://nodejs.org/api/process.html)
 
 
+### Day 14: 14, March 2018 (Wednesday)
+
+**Today's Progress**: Learn a bit about nodejs repl
+
+
+
