@@ -106,3 +106,9 @@
 
 
 
+### Day 16: 16, March 2018 (Friday)
+
+**Today's Progress**: Tried to solve problems in Airtel Challenge conducted in HackerEarth
+
+
+
