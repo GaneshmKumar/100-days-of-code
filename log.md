@@ -112,3 +112,11 @@
 
 
 
+### Day 17: 17, March 2018 (Saturday)
+
+**Today's Progress**: Started with [javascript30](https://javascript30.com), a set of vanilla javascript projects by wes bos. Completed the first one (drum kit)
+
+**Link(s) to work**
+1. [Javascript30](https://github.com/GaneshmKumar/javascript30)
+
+
