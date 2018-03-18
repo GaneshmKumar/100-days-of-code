@@ -120,3 +120,11 @@
 1. [Javascript30](https://github.com/GaneshmKumar/javascript30)
 
 
+### Day 18: 18, March 2018 (Sunday)
+
+**Today's Progress**: Completed [clock](https://ganeshmkumar.github.io/javascript30/02-clock/) and [css_variables](https://ganeshmkumar.github.io/javascript30/03-css-variables/) as a part of [javascript30 challenge](https://javascript30.com/)
+
+**Link(s) to work**
+1. [javascript30](https://github.com/GaneshmKumar/javascript30)
+
+
