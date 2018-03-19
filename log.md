@@ -128,3 +128,11 @@
 1. [javascript30](https://github.com/GaneshmKumar/javascript30)
 
 
+### Day 19: 19, March 2018 (Monday)
+
+**Today's Progress**: Completed [Array Cardio - Day 01](http://ganeshmkumar.github.io/javascript30/04-array-cardio-day-1/) as a part of javascript30
+
+**Link(s) to work**
+1. [Javascript30](https://github.com/GaneshmKumar/javascript30)
+
+
