@@ -136,3 +136,11 @@
 1. [Javascript30](https://github.com/GaneshmKumar/javascript30)
 
 
+### Day 20: 20, March 2018 (Tuesday)
+
+**Today's Progress**: Completed [Flex Panel Gallery](https://ganeshmkumar.github.io/javascript30/05-flex-panel-gallery/) and [Ajax Type Ahead](https://ganeshmkumar.github.io/javascript30/06-type-ahead/) as a part of javascript 30
+
+**Link(s) to work**
+1. [javascript30](https://javascript30.com/)
+
+
