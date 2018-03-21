@@ -146,7 +146,7 @@
 
 ### Day 21: 21, March 2018 (Wednesday)
 
-**Today's Progress**: Completed [Array Cardio Day 2](http://ganeshmkumar.github.io/javascript30/07-array-cardio-day-2/) and [Fun With HTML Canvas](http://ganeshmkumar.github.io/javascript30/08-fun-with-html-canvas/)
+**Today's Progress**: Completed [Array Cardio Day 2](http://ganeshmkumar.github.io/javascript30/07-array-cardio-day-2/) and [Fun With HTML Canvas](http://ganeshmkumar.github.io/javascript30/08-fun-with-html-canvas/) and [Dev Tools Domination](http://ganeshmkumar.github.io/javascript30/09-dev-tools-domination/)
 
 **Link(s) to work**
 1. [Javascript30](https://github.com/GaneshmKumar/javascript30)
