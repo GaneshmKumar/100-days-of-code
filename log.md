@@ -141,15 +141,15 @@
 **Today's Progress**: Completed [Flex Panel Gallery](https://ganeshmkumar.github.io/javascript30/05-flex-panel-gallery/) and [Ajax Type Ahead](https://ganeshmkumar.github.io/javascript30/06-type-ahead/) as a part of javascript 30
 
 **Link(s) to work**
-1. [javascript30](https://javascript30.com/)
+1. [javascript30](https://github.com/GaneshmKumar/javascript30)
 
 
 ### Day 21: 21, March 2018 (Wednesday)
 
-**Today's Progress**: Completed [Array Cardio Day 2](http://ganeshmkumar.github.io/javascript30/07-array-cardio-day-2/) and [Fun With HTML Canvas](http://ganeshmkumar.github.io/javascript30/08-fun-with-html-canvas/)
+**Today's Progress**: Completed [Array Cardio Day 2](http://ganeshmkumar.github.io/javascript30/07-array-cardio-day-2/) and [Fun With HTML Canvas](http://ganeshmkumar.github.io/javascript30/08-fun-with-html-canvas/) and [Dev Tools Domination](http://ganeshmkumar.github.io/javascript30/09-dev-tools-domination/)
 
 **Link(s) to work**
-1. [Javascript30](https://javascript30.com/)
+1. [Javascript30](https://github.com/GaneshmKumar/javascript30)
 
 
 ### Day 22: 22, March 2018 (Thursday)
