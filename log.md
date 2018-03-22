@@ -152,3 +152,11 @@
 1. [Javascript30](https://javascript30.com/)
 
 
+### Day 22: 22, March 2018 (Thursday)
+
+**Today's Progress**: Completed [Hold shift and check checkboxes](http://ganeshmkumar.github.io/javascript30/10-hold-shift-and-check-checkboxes/), [Custom video player](http://ganeshmkumar.github.io/javascript30/11-custom-video-player/) and [Key sequence detection](http://ganeshmkumar.github.io/javascript30/12-key-sequence-detection/)
+
+**Link(s) to work**
+1. [Javascript30](https://github.com/GaneshmKumar/javascript30)
+
+
