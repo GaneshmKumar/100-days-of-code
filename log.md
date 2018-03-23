@@ -160,3 +160,11 @@
 1. [Javascript30](https://github.com/GaneshmKumar/javascript30)
 
 
+### Day 23: 23, March 2018 (Friday)
+
+**Today's Progress**: Compelted [Slide In On Scroll](http://ganeshmkumar.github.io/javascript30/13-slide-in-on-scroll/) and [Javascript Reference VS Copying](http://ganeshmkumar.github.io/javascript30/14-javascript-reference-vs-copying/)
+
+**Link(s) to work**
+1. [Javascript30](https://github.com/GaneshmKumar/javascript30)
+
+
