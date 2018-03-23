@@ -162,7 +162,7 @@
 
 ### Day 23: 23, March 2018 (Friday)
 
-**Today's Progress**: Compelted [Slide In On Scroll](http://ganeshmkumar.github.io/javascript30/13-slide-in-on-scroll/) and [Javascript Reference VS Copying](http://ganeshmkumar.github.io/javascript30/14-javascript-references-vs-copying/)
+**Today's Progress**: Compelted [Slide In On Scroll](http://ganeshmkumar.github.io/javascript30/13-slide-in-on-scroll/), [Javascript Reference VS Copying](http://ganeshmkumar.github.io/javascript30/14-javascript-references-vs-copying/), [Local Storage](http://ganeshmkumar.github.io/javascript30/15-local-storage/) and [Mouse Move Shadow](http://ganeshmkumar.github.io/javascript30/16-mouse-move-shadow/)
 
 **Link(s) to work**
 1. [Javascript30](https://github.com/GaneshmKumar/javascript30)
