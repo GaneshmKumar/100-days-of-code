@@ -170,7 +170,7 @@
 
 ### Day 24: 24, March 2018 (Saturday)
 
-**Today's Progress**: Completed [Sort Without Articles](http://ganeshmkumar.github.io/javascript30/17-sort-without-articles/), [Adding Up Times With Reduce](http://ganeshmkumar.github.io/javascript30/18-adding-up-times-with-reduce/), [Webcam Fun](http://ganeshmkumar.github.io/javascript30/19-web-cam-fun/) and [Speech Detection](http://ganeshmkumar.github.io/javascript30/20-speech-detection/)
+**Today's Progress**: Completed [Sort Without Articles](http://ganeshmkumar.github.io/javascript30/17-sort-without-articles/), [Adding Up Times With Reduce](http://ganeshmkumar.github.io/javascript30/18-adding-up-times-with-reduce/), [Webcam Fun](http://ganeshmkumar.github.io/javascript30/19-webcam-fun/) and [Speech Detection](http://ganeshmkumar.github.io/javascript30/20-speech-detection/)
 
 **Link(s) to work**
 1. [Javascript30](https://github.com/ganeshmkumar/javascript30)
