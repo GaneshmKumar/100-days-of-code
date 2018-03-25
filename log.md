@@ -176,3 +176,11 @@
 1. [Javascript30](https://github.com/ganeshmkumar/javascript30)
 
 
+### Day 25: 25, March 2018 (Sunday)
+
+**Today's Progress**: Completed [Follow Along Link Highlighter](http://ganeshmkumar.github.io/javascript30/22-follow-along-link-highlighter/), [Speech Synthesis](http://ganeshmkumar.github.io/javascript30/23-speech-synthesis/) and [Sticky Nav](http://ganeshmkumar.github.io/javascript30/24-sticky-nav/)
+
+**Link(s) to work**
+1. [Javascript30](https://github.com/GaneshmKumar/javascript30)
+
+
