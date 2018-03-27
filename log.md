@@ -192,3 +192,11 @@
 1. [Javascript30](https://github.com/GaneshmKumar/javascript30)
 
 
+### Day 27: 27, March 2018 (Tuesday)
+
+**Today's Progress**: Completed [Click And Drag](http://ganeshmkumar.github.io/javascript30/27-click-and-drag/) and Video Speed Controller](http://ganeshmkumar.github.io/javascript30/28-video-speed-controller/)
+
+**Link(s) to work**
+1. [Javascript30](https://github.com/ganeshmkumar/javascript30)
+
+
