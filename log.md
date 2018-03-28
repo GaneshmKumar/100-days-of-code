@@ -200,3 +200,11 @@
 1. [Javascript30](https://github.com/ganeshmkumar/javascript30)
 
 
+### Day 28: 28, March 2018 (Wednesday)
+
+**Today's Progress**: Completed [Countdown Timer](http://ganeshmkumar.github.io/javascript30/29-countdown-timer/) and [Whack A Mole](http://ganeshmkumar.github.io/javascript30/30-whack-a-mole/)
+
+**Link(s) to work**
+1. [Javascript30](https://github.com/GaneshmKumar/javascript30)
+
+
