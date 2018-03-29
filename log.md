@@ -208,3 +208,13 @@
 1. [Javascript30](https://github.com/GaneshmKumar/javascript30)
 
 
+### Day 29: 29, March 2018 (Thursday)
+
+**Today's Progress**: Today's Progress: Started with ReactJS. Read some fundamentals of reactjs. Also, setup eslint, babel and editorConfig for the Markdown Previewer react app
+
+**Link(s) to work**
+1. [A Comprehensive Guide to React.js in 2018](https://medium.freecodecamp.org/a-comprehensive-guide-to-react-js-in-2018-ba8bb6975597)
+2. [Diving into ESLint]( https://www.youtube.com/watch?v=nxxl2H_TOTc&list=PLMWjeRChIK6bnp6qaS3rxLGCpc9aQYzEE)
+3. [Pete Hunt - The Secrets of React's Virtual DOM (FutureJS 2014)](https://www.youtube.com/watch?v=-DX3vJiqxm4)
+
+
