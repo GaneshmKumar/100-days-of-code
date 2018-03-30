@@ -218,3 +218,11 @@
 3. [Pete Hunt - The Secrets of React's Virtual DOM (FutureJS 2014)](https://www.youtube.com/watch?v=-DX3vJiqxm4)
 4. [MarkdownPreviewer](https://github.com/ganeshmkumar/MarkdownPreviewer)
 
+### Day 30: 30, March 2018 (Friday)
+
+**Today's Progress**: Setup webpack and npm scripts for the Markdown Previewer react app
+
+**Link(s) to work**
+1. [Markdown Previewer](https://github.com/GaneshmKumar/MarkdownPreviewer)
+
+
