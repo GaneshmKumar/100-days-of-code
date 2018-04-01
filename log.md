@@ -234,3 +234,9 @@
 1. [React Docs](https://reactjs.org/docs)
 
 
+### Day 32: 01, April 2018 (Sunday)
+
+**Today's Progress**: Completed markdown functionality for the React Markdown Preiewer app
+
+
+
