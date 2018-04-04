@@ -258,3 +258,12 @@
 2. [Markdown Previewer - Preview](https://ganeshmkumar.github.io/MarkdownPreviewer/)
 
 
+### Day 35: 04, April 2018 (Wednesday)
+
+**Today's Progress**: Added more styles to the Markdown Previewer app
+
+**Link(s) to work**
+1. [Markdown Previewer - Source Code](https://github.com/GaneshmKumar/MarkdownPreviewer)
+2. [Markdown Previewer - Preview](https://ganeshmkumar.github.io/MarkdownPreviewer/)
+
+
