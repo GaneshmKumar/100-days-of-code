@@ -267,3 +267,12 @@
 2. [Markdown Previewer - Preview](https://ganeshmkumar.github.io/MarkdownPreviewer/)
 
 
+### Day 36: 05, April 2018 (Thursday)
+
+**Today's Progress**: Made some formatting in **Markdown Previewer** app. Also add windows support for my **Alertify** command line utility
+
+**Link(s) to work**
+1. [Markdown Previewer](https://github.com/GaneshmKumar/MarkdownPreviewer)
+2. [Alertify](https://github.com/GaneshmKumar/Alertify)
+
+
