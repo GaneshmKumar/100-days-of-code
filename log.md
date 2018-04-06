@@ -276,3 +276,11 @@
 2. [Alertify](https://github.com/GaneshmKumar/Alertify)
 
 
+### Day 37: 06, April 2018 (Friday)
+
+**Today's Progress**: Participated in codechef [April Challenge](https://www.codechef.com/APRIL18). Solved the first problem. Tried the second one
+
+**Link(s) to work**
+1. [CHEFWORK](https://www.codechef.com/APRIL18B/status/CHEFWORK,ganeshkumarm1)
+
+
