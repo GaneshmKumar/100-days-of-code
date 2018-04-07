@@ -284,3 +284,11 @@
 1. [CHEFWORK](https://www.codechef.com/APRIL18B/status/CHEFWORK,ganeshkumarm1)
 
 
+### Day 38: 07, April 2018 (Saturday)
+
+**Today's Progress**: Setup initial scaffolding for FCC leader board react app
+
+**Link(s) to work**
+1. [FCCLeaderboard](https://github.com/ganeshmkumar/FCCLeaderboard)
+
+
