@@ -292,3 +292,9 @@
 1. [FCCLeaderboard](https://github.com/ganeshmkumar/FCCLeaderboard)
 
 
+### Day 39: 08, April 2018 (Sunday)
+
+**Today's Progress**: Tried to solve problems in codechef [April Challenge](https://www.codechef.com/APRIL18)
+
+
+
