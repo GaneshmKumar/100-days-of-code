@@ -304,3 +304,9 @@
 
 
 
+### Day 41: 10, April 2018 (Tuesday)
+
+**Today's Progress**: Started with wesbos' [CSS Grid](https://cssgrid.io/) course
+
+
+
