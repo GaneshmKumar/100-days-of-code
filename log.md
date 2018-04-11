@@ -310,3 +310,9 @@
 
 
 
+### Day 42: 11, April 2018 (Wednesday)
+
+**Today's Progress**: Learn about **auto flow**, **sizing grids** and **repeat** in [CSS Grids by WesBos](http://cssgrid.io)
+
+
+
