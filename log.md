@@ -316,3 +316,11 @@
 
 
 
+### Day 43: 12, April 2018 (Thursday)
+
+**Today's Progress**: Completed Freecodecamp Leaderboard without sort functionality
+
+**Link(s) to work**
+1. [FCCLeaderboard](https://github.com/ganeshmkumar/FCCLeaderboard)
+
+
