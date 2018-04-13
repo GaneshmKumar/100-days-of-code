@@ -324,3 +324,9 @@
 1. [FCCLeaderboard](https://github.com/ganeshmkumar/FCCLeaderboard)
 
 
+### Day 44: 13, April 2018 (Friday)
+
+**Today's Progress**: Tried solving problems in Codechef April Challenge
+
+
+
