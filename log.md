@@ -330,3 +330,11 @@
 
 
 
+### Day 45: 14, April 2018 (Saturday)
+
+**Today's Progress**: Added avatar in FCC Leaderboard. Also added media queries
+
+**Link(s) to work**
+1. [FCCLeaderboard](https://github.com/ganeshmkumar/FCCLeaderboard)
+
+
