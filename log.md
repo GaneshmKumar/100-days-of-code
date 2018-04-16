@@ -346,3 +346,11 @@
 1. [CamperBoard](https://github.com/GaneshmKumar/CamperBoard)
 
 
+### Day 47: 16, April 2018 (Monday)
+
+**Today's Progress**: Create react scaffolding for freecodecamp react projects
+
+**Link(s) to work**
+1. [my-react](https://github.com/GaneshmKumar/my-react)
+
+
