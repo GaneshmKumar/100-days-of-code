@@ -354,3 +354,11 @@
 1. [my-react](https://github.com/GaneshmKumar/my-react)
 
 
+### Day 48: 17, April 2018 (Tuesday)
+
+**Today's Progress**: Started with Recipe Box (one of the freecodecamp's react js projects). Added header and footer for the app
+
+**Link(s) to work**
+1. [RecipeBox](https://github.com/GaneshmKumar/RecipeBox)
+
+
