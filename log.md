@@ -362,3 +362,9 @@
 1. [RecipeBox](https://github.com/GaneshmKumar/RecipeBox)
 
 
+### Day 49: 18, April 2018 (Wednesday)
+
+**Today's Progress**: Added formatting to header and footer in recipe box app
+
+
+
