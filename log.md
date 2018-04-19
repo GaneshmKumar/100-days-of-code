@@ -368,3 +368,11 @@
 
 
 
+### Day 50: 19, April 2018 (Thursday)
+
+**Today's Progress**: Learnt about react keys and list from react docs
+
+**Link(s) to work**
+1. [Lists and Keys](https://reactjs.org/docs/lists-and-keys.html)
+
+
