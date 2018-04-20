@@ -376,3 +376,11 @@
 1. [Lists and Keys](https://reactjs.org/docs/lists-and-keys.html)
 
 
+### Day 51: 20, April 2018 (Friday)
+
+**Today's Progress**: Added more styles to the reactjs Recipe app
+
+**Link(s) to work**
+1. [RecipeBox](https://github.com/GaneshmKumar/RecipeBox)
+
+
