@@ -384,3 +384,11 @@
 1. [RecipeBox](https://github.com/GaneshmKumar/RecipeBox)
 
 
+### Day 52: 21, April 2018 (Saturday)
+
+**Today's Progress**: Created recipe layout for the [RecipeBox](http://ganeshmkumar.github.io/RecipeBox) app with mock data. Made it responsive with random background color
+
+**Link(s) to work**
+1. [RecipeBox](https://github.com/ganeshmkumar/RecipeBox)
+
+
