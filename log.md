@@ -392,3 +392,11 @@
 1. [RecipeBox](https://github.com/ganeshmkumar/RecipeBox)
 
 
+### Day 53: 22, April 2018 (Sunday)
+
+**Today's Progress**: Added save functionality with mock data in the [Recipe Box](http://ganeshmkumar.github.io/RecipeBox) app. Yet to complete add and delete functionality
+
+**Link(s) to work**
+1. [RecipeBox](https://github.com/ganeshmkumar/RecipeBox)
+
+
