@@ -400,3 +400,11 @@
 1. [RecipeBox](https://github.com/ganeshmkumar/RecipeBox)
 
 
+### Day 54: 23, April 2018 (Monday)
+
+**Today's Progress**: Completed the [Recipe Box](https://ganeshmkumar.github.io/RecipeBox/) app. Completed add and delete recipe functionality
+
+**Link(s) to work**
+1. [RecipeBox](https://github.com/ganeshmkumar/RecipeBox)
+
+
