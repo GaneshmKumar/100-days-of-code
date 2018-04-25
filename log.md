@@ -414,3 +414,11 @@
 
 
 
+### Day 56: 25, April 2018 (Wednesday)
+
+**Today's Progress**: Added row, column, speed controls and action buttons in [Game of Life](http://ganeshmkumar.github.io/GameOfLife) app
+
+**Link(s) to work**
+1. [Game of Life](https://github.com/GaneshmKumar/GameOfLife)
+
+
