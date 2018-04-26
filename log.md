@@ -422,3 +422,11 @@
 1. [Game of Life](https://github.com/GaneshmKumar/GameOfLife)
 
 
+### Day 57: 26, April 2018 (Thursday)
+
+**Today's Progress**: Added styles and event handles for input in [Game of Life](http://ganeshmkumar.github.io/GameOfLife)
+
+**Link(s) to work**
+1. [Game of Life](https://github.com/GaneshmKumar/GameOfLife)
+
+
