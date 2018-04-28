@@ -430,3 +430,10 @@
 1. [Game of Life](https://github.com/GaneshmKumar/GameOfLife)
 
 
+### Day 58: 27, April 2018 (Friday)
+
+**Today's Progress**: Fixed minor issues in [Game of Life](http://ganeshmkumar.github.io/GameOfLife) app
+
+**Link(s) to work**
+1. [Game of Life](https://github.com/GaneshmKumar/GameOfLife)
+
