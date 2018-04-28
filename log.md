@@ -437,3 +437,11 @@
 **Link(s) to work**
 1. [Game of Life](https://github.com/GaneshmKumar/GameOfLife)
 
+### Day 59: 28, April 2018 (Saturday)
+
+**Today's Progress**: Added code to generate grid with varying rows and columns in [Game of Life](http://ganeshmkumar.github.io/GameOfLife)
+
+**Link(s) to work**
+1. [Game of Life](https://github.com/GaneshmKumar/GameOfLife)
+
+
