@@ -445,3 +445,9 @@
 1. [Game of Life](https://github.com/GaneshmKumar/GameOfLife)
 
 
+### Day 60: 29, April 2018 (Sunday)
+
+**Today's Progress**: Added logic to set random live cells in Game Of Life
+
+
+
