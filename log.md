@@ -451,3 +451,12 @@
 
 
 
+### Day 61: 30, April 2018 (Monday)
+
+**Today's Progress**: Fixed random alive cell generation issue. Added logic to clear the grid
+
+**Link(s) to work**
+1. [Game Of Life - Source Code](https://github.com/ganeshmkumar/GameOfLife)
+2. [Game Of Life - Preview](http://ganeshmkumar.github.io/GameOfLife)
+
+
