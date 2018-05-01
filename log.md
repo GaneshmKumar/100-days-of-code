@@ -460,3 +460,9 @@
 2. [Game Of Life - Preview](http://ganeshmkumar.github.io/GameOfLife)
 
 
+### Day 62: 01, May 2018 (Tuesday)
+
+**Today's Progress**: Learnt about the game of life logic
+
+
+
