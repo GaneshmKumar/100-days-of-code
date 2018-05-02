@@ -466,3 +466,9 @@
 
 
 
+### Day 63: 02, May 2018 (Wednesday)
+
+**Today's Progress**: Fixed few formattings in game of life
+
+
+
