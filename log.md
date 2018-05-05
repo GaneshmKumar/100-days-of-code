@@ -484,3 +484,9 @@
 
 
 
+### Day 66: 05, May 2018 (Saturday)
+
+**Today's Progress**: Started with the basics of data structures and algorithms
+
+
+
