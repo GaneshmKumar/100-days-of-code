@@ -496,3 +496,9 @@
 
 
 
+### Day 68: 07, May 2018 (Monday)
+
+**Today's Progress**: Learnt about color psychology and how to choose the best colour for a product
+
+
+
