@@ -502,3 +502,11 @@
 
 
 
+### Day 69: 08, May 2018 (Tuesday)
+
+**Today's Progress**: Started learning the basics of UX to design the Journal app
+
+**Link(s) to work**
+1. [Why Product Thinking is the next big thing in UX Design](https://medium.com/@jaf_designer/why-product-thinking-is-the-next-big-thing-in-ux-design-ee7de959f3fe)
+
+
