@@ -510,3 +510,9 @@
 1. [Why Product Thinking is the next big thing in UX Design](https://medium.com/@jaf_designer/why-product-thinking-is-the-next-big-thing-in-ux-design-ee7de959f3fe)
 
 
+### Day 70: 09, May 2018 (Wednesday)
+
+**Today's Progress**: Started with the freehand designs for Journal App. Created the first screen. Discussed with [@Dhanushu](https://github.com/dhanushuuzumaki) and found some issues with the design. I have to review the design. I will upload the design once the prototype is finalized
+
+
+
