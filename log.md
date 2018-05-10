@@ -516,3 +516,9 @@
 
 
 
+### Day 71: 10, May 2018 (Thursday)
+
+**Today's Progress**: Reviewed the design of Journal app and modified few changes
+
+
+
