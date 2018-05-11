@@ -522,3 +522,9 @@
 
 
 
+### Day 72: 11, May 2018 (Friday)
+
+**Today's Progress**: Reviewed the journal app again and found some issues. I need to review and make changes again
+
+
+
