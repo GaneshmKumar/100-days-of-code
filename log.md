@@ -528,3 +528,9 @@
 
 
 
+### Day 73: 12, May 2018 (Saturday)
+
+**Today's Progress**: Reviewed the journal design today and made few changes. shared the design with the team members
+
+
+
