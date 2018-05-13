@@ -534,3 +534,11 @@
 
 
 
+### Day 74: 13, May 2018 (Sunday)
+
+**Today's Progress**: Started with material design guidelines to design the ui for journal app
+
+**Link(s) to work**
+1. [Material Design](https://material.io/design/)
+
+
