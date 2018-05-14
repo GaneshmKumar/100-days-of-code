@@ -542,3 +542,11 @@
 1. [Material Design](https://material.io/design/)
 
 
+### Day 75: 14, May 2018 (Monday)
+
+**Today's Progress**: Continued with the Material Design Guidelines. Learnt about Navigation and Search
+
+**Link(s) to work**
+1. [Material Design](https://material.io/design/)
+
+
