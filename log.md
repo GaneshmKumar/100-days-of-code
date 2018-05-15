@@ -550,3 +550,9 @@
 1. [Material Design](https://material.io/design/)
 
 
+### Day 76: 15, May 2018 (Tuesday)
+
+**Today's Progress**: Started creating prototype for the journal app. Completed half of the design for home page
+
+
+
