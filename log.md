@@ -556,3 +556,9 @@
 
 
 
+### Day 77: 16, May 2018 (Wednesday)
+
+**Today's Progress**: Continued with the journal prototype design. Completed the home page. Yet to design prototype for search, settings, new journal, navbar and notification
+
+
+
