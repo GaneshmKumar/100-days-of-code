@@ -562,3 +562,9 @@
 
 
 
+### Day 78: 17, May 2018 (Thursday)
+
+**Today's Progress**: Designed nav bar for the journal app
+
+
+
