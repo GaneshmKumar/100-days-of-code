@@ -568,3 +568,9 @@
 
 
 
+### Day 79: 18, May 2018 (Friday)
+
+**Today's Progress**: Completed the design for search, notification in journal app
+
+
+
