@@ -575,7 +575,7 @@
 
 
 ### Day 80: 19, May 2018 (Saturday)
-**Today's Progress **: Completed the design to add new journal and journal options
+**Today's Progress**: Completed the design to add new journal and journal options
 
 
 
