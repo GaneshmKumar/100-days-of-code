@@ -579,3 +579,9 @@
 
 
 
+### Day 81: 20, May 2018 (Sunday)
+
+**Today's Progress**: Starting creating designs using Adobe XD. Created the home page for journal. Made some changes to the design
+
+
+
