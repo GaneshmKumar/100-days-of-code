@@ -585,3 +585,9 @@
 
 
 
+### Day 82: 21, May 2018 (Monday)
+
+**Today's Progress**: Designed mobile prototype of the journal app. Completed search design
+
+
+
