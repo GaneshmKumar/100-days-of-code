@@ -596,4 +596,8 @@
 **Today's Progress**: Design mobile prototype for notifications and adding new journal
 
 
+### Day 84: 23, May 2018 (Wednesday)
+**Today's Progress**: Made few changes to the design with respect to colour
+
+
 
