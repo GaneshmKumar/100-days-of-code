@@ -601,3 +601,9 @@
 
 
 
+### Day 85: 24, May 2018 (Thursday)
+
+**Today's Progress**: Made few changes to the journal design and added prototype for journal options like rename, change cover, delete and info
+
+
+
