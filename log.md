@@ -606,4 +606,8 @@
 **Today's Progress**: Made few changes to the journal design and added prototype for journal options like rename, change cover, delete and info
 
 
+### Day 86: 25, May 2018 (Friday)
+**Today's Progress**: Created design for empty journals/entries/trash/recent. Also made few modifications to the existing design
+
+
 
