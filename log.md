@@ -611,3 +611,9 @@
 
 
 
+### Day 87: 26, May 2018 (Saturday)
+
+**Today's Progress**: Changes the mobile design for entries and options in journal app. Made few modifications to the color.
+
+
+
