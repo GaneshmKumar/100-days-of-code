@@ -617,3 +617,9 @@
 
 
 
+### Day 88: 27, May 2018 (Sunday)
+
+**Today's Progress**: Created login/signup prototype (both web and mobile) for the journal app
+
+
+
