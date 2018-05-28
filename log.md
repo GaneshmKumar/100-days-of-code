@@ -575,6 +575,7 @@
 
 
 ### Day 80: 19, May 2018 (Saturday)
+
 **Today's Progress**: Completed the design to add new journal and journal options
 
 
@@ -597,6 +598,7 @@
 
 
 ### Day 84: 23, May 2018 (Wednesday)
+
 **Today's Progress**: Made few changes to the design with respect to colour
 
 
@@ -607,6 +609,7 @@
 
 
 ### Day 86: 25, May 2018 (Friday)
+
 **Today's Progress**: Created design for empty journals/entries/trash/recent. Also made few modifications to the existing design
 
 
@@ -620,6 +623,11 @@
 ### Day 88: 27, May 2018 (Sunday)
 
 **Today's Progress**: Created login/signup prototype (both web and mobile) for the journal app
+
+
+### Day 89: 28, May 2018 (Monday)
+
+**Today's Progress**: Created journal web designs using Adobe XD. Completed desing for search, notifications, journal page
 
 
 
