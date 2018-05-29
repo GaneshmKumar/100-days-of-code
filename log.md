@@ -631,3 +631,9 @@
 
 
 
+### Day 90: 29, May 2018 (Tuesday)
+
+**Today's Progress**: Completed remaining web designs for journal app. Completed design for starred, recent, trash
+
+
+
