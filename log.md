@@ -636,4 +636,12 @@
 **Today's Progress**: Completed remaining web designs for journal app. Completed design for starred, recent, trash
 
 
+### Day 91: 30, May 2018 (Wednesday)
+
+**Todays Progress**: Started learning GraphQL. Learnt the basics of graphQL
+
+**Link(s) to work**
+1. [How to GraphQl](https://www.howtographql.com/)
+
+
 
