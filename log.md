@@ -644,4 +644,12 @@
 1. [How to GraphQl](https://www.howtographql.com/)
 
 
+### Day 92: 31, May 2018 (Thursday)
+
+**Today's Progress**: Continued with GraphQL. Learnt abour Query, Mutations and Subscriptions
+
+**Link(s) to work**
+1. [How to GraphQL](https://www.howtographql.com/)
+
+
 
