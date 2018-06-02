@@ -652,4 +652,8 @@
 1. [How to GraphQL](https://www.howtographql.com/)
 
 
+### Day 93: 01, Jun 2018 (Friday)
+**Today's Progress**: Reviewed the journal design and modified few changes in the design
+
+
 
