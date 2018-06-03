@@ -656,4 +656,8 @@
 **Today's Progress**: Reviewed the journal design and modified few changes in the design
 
 
+### Day 94: 02, Jun 2018 (Saturday)
+**Today's Progress**: Made few modifications in the menubar, login and trash
+
+
 
