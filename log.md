@@ -661,3 +661,9 @@
 
 
 
+### Day 95: 03, June 2018 (Sunday)
+
+**Today's Progress**: Started setting up the Journal code in local environment. Faced some issues installing docker on windows 10 home. Have to try installing it in linux
+
+
+
