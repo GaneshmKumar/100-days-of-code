@@ -676,4 +676,9 @@
 **Today's Progress**: Fixed the issue with prisma connecting to postgres inside docker. Replaced localhost docker connection with Amazon RDS connection
 
 
+### Day 98: 06, June 2018 (Wednesday)
+
+**Today's Progress**: Learnt about Docker and the basics of postgres sql
+
+
 
