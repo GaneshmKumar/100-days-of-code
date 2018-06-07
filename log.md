@@ -681,4 +681,13 @@
 **Today's Progress**: Learnt about Docker and the basics of postgres sql
 
 
+### Day 99: 07, June 2018 (Thursday)
+
+**Today's Progress**: Learnt javascript prototype chain and callbacks
+
+**Link(s) to work**
+1. [Javascript prototype chain](https://www.youtube.com/watch?v=s7-cWUvaTDk)
+2. [Javascript callbacks](https://www.youtube.com/watch?v=pTbSfCT42_M)
+
+
 
