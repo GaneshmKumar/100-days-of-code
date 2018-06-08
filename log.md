@@ -690,4 +690,9 @@
 2. [Javascript callbacks](https://www.youtube.com/watch?v=pTbSfCT42_M)
 
 
+### Day 100: 08, June 2018 (Friday)
+
+**Today's Progress**: Learnt javascript apply and bind, javascript closures
+
+
 
