@@ -17,4 +17,8 @@
 1. [React event handling](https://reactjs.org/docs/handling-events.html)
 
 
+### Day 3: 11, June 2018 (Monday)
+**Today's Progress**: Gone through the Journal scaffolding code base
+
+
 
