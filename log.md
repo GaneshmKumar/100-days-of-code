@@ -21,4 +21,8 @@
 **Today's Progress**: Gone through the Journal scaffolding code base
 
 
+### Day 4: 12, June 2018 (Tuesday)
+**Today's Progress**: Learnt about graphql-yoga
+
+
 
